@@ -19,3 +19,8 @@ This is my first GitHub project.
 
 .This project is actively maintained.
 
+## New Feature
+
+Added contact page support.
+
+
