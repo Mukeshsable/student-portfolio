@@ -14,3 +14,8 @@ This is my first GitHub project.
 - Learn Git commands
 - Understand GitHub
 - Practice version control
+
+## Project Status
+
+.This project is actively maintained.
+
